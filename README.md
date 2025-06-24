@@ -44,4 +44,8 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   SELECT A,B,C
   WHERE A>15
   ```
+
   
+  ![bsc cer](https://github.com/user-attachments/assets/fc4dd1b6-e9a7-4d3f-99fc-faa7cae8cdf8)
+
+
